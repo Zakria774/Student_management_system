@@ -320,7 +320,7 @@ No external libraries are required.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Zakria774/Student_management_system.git
 ```
 
 Move into the project directory:
